@@ -2,7 +2,7 @@ ExtNode
 ======
 
 [Ext JS](http://http://www.sencha.com/products/extjs/) Foundation exported to NodeJS. It only includes
-the JavaScript utilities that really matter for NodeJS development. [Check the docs](http://brunotavares.github.com/extnode) 
+the JavaScript utilities that really matter for NodeJS development. [Check the docs](http://brunotavares.github.com/extnode/docs) 
 for a full list of what is included.
 
 Current version: Ext JS 4.1 beta

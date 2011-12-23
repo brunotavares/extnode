@@ -3,7 +3,7 @@
   "version": "4.1.0-beta",
   "description": "Ext JS Foundation exported to Node JS. Pure JavaScript utilities.",
   "author": "Bruno Tavares <bruno@tavares.me> (http://bruno.tavares.me)",
-  "homepage": "brunotavares.github.com/extnode/docs",
+  "homepage": "http://brunotavares.github.com/extnode/docs",
   "main": "index",
   "keywords": [
     "extjs",
