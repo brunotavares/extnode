@@ -1,0 +1,17 @@
+{
+  "name": "extnode",
+  "version": "4.1.0-beta",
+  "description": "Ext JS Foundation exported to Node JS. Pure JavaScript utilities.",
+  "author": "Bruno Tavares <bruno@tavares.me> http://bruno.tavares.me",
+  "main": "index",
+  "keywords": [
+    "extjs", "class system"
+  ],
+  "bugs": {
+    "url" : "http://github.com/brunotavares/extnode/issues"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/brunotavares/extnode.git"
+  }
+}
